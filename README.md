@@ -1,2 +1,5 @@
-# Morse-Chat
-A Morse Code Chatting Application
+# A Morse Code Chatting Application
+
+## Features Needed:
+- 💻 GUI
+- 😄 Simple
